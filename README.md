@@ -104,22 +104,3 @@ If you get any error such as
 port has already been allocated or address already in use
 ```
 Then change the port number 5001 in both dockerfile and docker-compose file to any empty port number on your system. 
-## Demo
-
-## Screenshots
-
-## Documentations
-
-## Contributors
-This project is success because of the following people:
-
-- Aditi Pandey
-- Ahmed Fadil
-- Akash Sil
-- Anujna G K
-- Ayushi Sah
-- Bhawesh Agarwal
-- Gagan S
-- Janesh Walia
-- Konjeti Nidhi
-- Lakshita R
