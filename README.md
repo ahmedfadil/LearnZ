@@ -34,6 +34,8 @@ Contributing to the advancement of e-learning.
 
 **Testing** : Selenium
 
+**Security** : Snyk
+
 
 ![My Skills](https://skills.thijs.gg/icons?i=html,css,js,jquery,django,python,sqlite,git,docker,jenkins,aws,selenium&perline=3)
 
